@@ -1,0 +1,5 @@
+--no-index
+--find-links packages/
+
+PyMySQL==0.7.9
+pytz==2016.1

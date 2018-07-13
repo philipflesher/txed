@@ -1,0 +1,112 @@
+===========================
+Missing districts, by year:
+===========================
+
+Processing financial data for year 2005
+District 101950 not in districts_by_xid. Skipping.
+District 108950 not in districts_by_xid. Skipping.
+District 015950 not in districts_by_xid. Skipping.
+District 057950 not in districts_by_xid. Skipping.
+District 071950 not in districts_by_xid. Skipping.
+District 092950 not in districts_by_xid. Skipping.
+District 152950 not in districts_by_xid. Skipping.
+District 161950 not in districts_by_xid. Skipping.
+District 165950 not in districts_by_xid. Skipping.
+District 178950 not in districts_by_xid. Skipping.
+District 181950 not in districts_by_xid. Skipping.
+District 188950 not in districts_by_xid. Skipping.
+District 220950 not in districts_by_xid. Skipping.
+District 221950 not in districts_by_xid. Skipping.
+District 225950 not in districts_by_xid. Skipping.
+District 226950 not in districts_by_xid. Skipping.
+District 227905 not in districts_by_xid. Skipping.
+District 227906 not in districts_by_xid. Skipping.
+District 227950 not in districts_by_xid. Skipping.
+District 235950 not in districts_by_xid. Skipping.
+District 236950 not in districts_by_xid. Skipping.
+District 243950 not in districts_by_xid. Skipping.
+Processing financial data for year 2006
+District 057920 not in districts_by_xid. Skipping.
+Processing financial data for year 2007
+Processing financial data for year 2008
+Processing financial data for year 2009
+District 061803 not in districts_by_xid. Skipping.
+"061803","THE LEGENDS ACADEMY","A","5","R","1","01","061","11","11",17597,19014
+Processing financial data for year 2010
+District 123807 not in districts_by_xid. Skipping.
+Processing financial data for year 2011
+District 101865 not in districts_by_xid. Skipping.
+Processing financial data for year 2012
+Processing financial data for year 2013
+District 042906 not in districts_by_xid. Skipping.
+Processing financial data for year 2014
+Processing financial data for year 2015
+
+
+
+
+
+
+2005 - 2015
+District 101950 not in districts_by_xid. Skipping.
+District 108950 not in districts_by_xid. Skipping.
+District 015950 not in districts_by_xid. Skipping.
+District 057950 not in districts_by_xid. Skipping.
+District 071950 not in districts_by_xid. Skipping.
+District 092950 not in districts_by_xid. Skipping.
+District 152950 not in districts_by_xid. Skipping.
+District 161950 not in districts_by_xid. Skipping.
+District 165950 not in districts_by_xid. Skipping.
+District 178950 not in districts_by_xid. Skipping.
+District 181950 not in districts_by_xid. Skipping.
+District 188950 not in districts_by_xid. Skipping.
+District 220950 not in districts_by_xid. Skipping.
+District 221950 not in districts_by_xid. Skipping.
+District 225950 not in districts_by_xid. Skipping.
+District 226950 not in districts_by_xid. Skipping.
+District 227950 not in districts_by_xid. Skipping.
+District 235950 not in districts_by_xid. Skipping.
+District 236950 not in districts_by_xid. Skipping.
+District 243950 not in districts_by_xid. Skipping.
+Education Service Center - 20 regions total
+RESOLUTION: Let's remove these from the financials for all years.
+
+
+2005 - 2013
+District 227905 not in districts_by_xid. Skipping.
+District 227906 not in districts_by_xid. Skipping.
+Texas School for the Blind & Visually Impaired
+Texas School for the Deaf
+Why are these reported in the financials but not in the TEA performance stats?
+RESOLUTION: Let's remove these from the financials for all years.
+
+
+2006
+District 057920 not in districts_by_xid. Skipping.
+Wilmer Hutchins ISD in Dallas was shut down by the state for poor performance in summer 2005. So it's strange that there's financial data for 2005-2006.
+http://www.parentadvocates.org/nicecontent/dsp_printable.cfm?articleID=7022
+
+
+2009
+District 061803 not in districts_by_xid. Skipping.
+Legends Academy in Denton
+Not in the list of districts (financial) for 2009. But does exist for 2010-2012, which matches the school years that the school was actually in service:
+http://www.dentonrc.com/local-news/local-news-headlines/20120601-funding-shortage-shutters-the-legends-academy.ece
+So did all of this school's financial units get shifted one year backward (2009-2011)?
+
+
+2010
+District 123807 not in districts_by_xid. Skipping.
+Bob Hope School in Port Arthur started in the 2009-2010 school year. But no data was reported for school performance by the TEA for the 2010 year.
+
+
+2011
+District 101865 not in districts_by_xid. Skipping.
+Victory Prep in Houston. Hard to tell when this was started, but there are references on its Facebook page to 2010. There's financial data for 2010-2011. Why is there no performance data reported by TEA for 2010-2011?
+
+
+2013
+District 042906 not in districts_by_xid. Skipping.
+Novice ISD closed after the 2012 school year. There are financial units for it for 2012-2013, but nothing in the accounts file - so this one should be safe to simply skip.
+https://en.wikipedia.org/wiki/Novice_Independent_School_District
+RESOLUTION: Skip this.
